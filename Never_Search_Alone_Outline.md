@@ -82,6 +82,7 @@
 
 
 ### [Chapter 1: Managing-the-Job-Search-Roller-Coaster](#table-of-contents)
+---
 
 * Emotional balance in a job search is critical to your persistence
 * Everyone struggles with self doubt
@@ -112,7 +113,9 @@
 
 <br>
 
+---
 ### [Chapter 2: Recruit-Strangers-(or-Acquaintances)](#table-of-contents)
+---
 
 * Most people (he says 80% of readers) have no trouble recruiting strangers
 * First step: Find Your First Member (of your JSC)
@@ -138,7 +141,9 @@
 
 <br>
 
+---
 ### [Chapter 3: Launch your JSC](#table-of-contents)
+---
 
 * He provides standard meeting format and pointers for the first 10 meeting agendas
 * Practical Issues:
@@ -180,7 +185,7 @@
 
 
 ### [Chapter 4: The Mnookin Two-Pager](#table-of-contents)
-
+---
 
 
 * Listening tour takes 2-3 weeks for out of work job seekers
@@ -243,7 +248,10 @@
 
 <br>
 
+---
 ### [Chapter 5: Gratitude House](#table-of-contents)
+---
+
 
 * Who should you speak to during your Listening Tour?
   <br>
@@ -287,7 +295,11 @@
 
 <br>
 
+---
 ### [ Chapter 6: Reverse Exit Interviews](#table-of-contents)
+---
+
+
 
 * Look at your Gratitude House list. Do you have a former colleague or boss that you worked with either recently or in the last several years?
 * <font color="#f79646">Set up time with them. Bring your Mnookin Two-Pager and ask:</font>
@@ -316,7 +328,9 @@
 
 <br>
 
+---
 ### [Chapter 7: The Golden Question](#table-of-contents)
+---
 
 * What’s the Golden Question?
 * _If you were in my shoes, how would you approach this job search?_
@@ -344,7 +358,9 @@
 
 <br>
 
+---
 ### [Chapter 8: Recruiters](#table-of-contents)
+---
 
 * Speak with: recruiters and talent partners at VCs and PEs
 * He suggests a minimum of 1 recruiter conversation, but ideally 2 or 3
@@ -370,7 +386,7 @@
 
 
 ### [Chapter 9: Candidate Market Fit](#table-of-contents)
-
+---
 
 * <font color="#f79646">You want to align your Candidate-Market Fit with your short-term career goal: Your CMF tells you the type of job you can get w/your current skills and experience → You’ve identified a real market need you can fill. </font>
 * When they are aligned, simply follow the remaining steps in the book
@@ -420,7 +436,10 @@
 
 <br>
 
+---
 ### [Chapter 10: LinkedIn/Resume Synch with Candidate-Market Fit](#table-of-contents)
+---
+
 
 * Your LinkedIn profile and resume are your two most important pieces of marketing collateral, but…
 * But only create these AFTER you’ve created your Candidate-Market Fit statement
@@ -465,11 +484,11 @@
 
 ---
 ## Step 4: Create a Job Mission with OKRs when interviewing and negotiating
+
+---
+### [Chapter 11: Networking](#table-of-contents)
 ---
 
-<br>
-
-### [Chapter 11: Networking](#table-of-contents)
 
 - Says will take 2-8 weeks, depending on:Job Market conditions
 	- Quality of your Candidate-Market Fit (CMF) 
@@ -601,8 +620,10 @@
 
 <br>
 
-
+---
 ### [Chapter 12: Interviewing](#table-of-contents)
+---
+
 
 - Interviewing them as much as they interview you
 - He wants you to ‘boss the process’. Control it. 
@@ -747,7 +768,7 @@
 ---
 
 ### [Chapter 13: Negotiating Salary](#table-of-contents)
-
+---
 
 * **_<font color="#f79646">The key is to have the courage to ask</font>_**
 * 83% of the time, you’ll get more than you were initially offered
@@ -791,8 +812,9 @@
 
 <br>
 
-
+---
 ### [Chapter 14: Negotiating What You Need to Succeed](#table-of-contents)
+---
 
 * Do not skip negotiating the budget, resources and support you will need to succeed in your new role
 * This makes your more likely to succeed in the new role and give you a leg up on getting promoted
@@ -835,8 +857,10 @@
 
 <br>
 
-
+---
 ### [Chapter 15: Preparing to Start Your New Job](#table-of-contents)
+---
+
 
 * Thank your JSC
 * Send follow-up notes to everyone that helped and thank them
@@ -893,7 +917,10 @@
 
 <br>
 
+---
 ### [Chapter 16: The Last Word](#table-of-contents)
+---
+
 
 - Highlight two books that highlight leaders exhibiting humility and asking for help:
 	- Built to Last (1994) by Jim Collins

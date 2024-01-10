@@ -2,6 +2,7 @@
 
 [Resources (Working Copies, Google Drive)](Working%20Copies,%20Google%20Drive)) 
 
+---
 ### Table of Contents
 
 - #### Step 0: If You Just Left or Lost Your Job
@@ -38,11 +39,10 @@
   - **[Chapter 16: The Last Word](#chapter-16-the-last-word)**
 
 
+
 ---
-
-
 #### Step 1: Set Up a Job Search Council
-
+---
 
 - ##### [Chapter 1: Managing the Job Search Roller Coaster](#table-of-contents)
     - <mark style="background: #ABF7F7A6;">Go to [Phyl.org ](https://www.phyl.org/)and watch almost any video. See how JSCs helped them.  </mark>
@@ -69,9 +69,9 @@
         - [Imani Smith's JSC in Action](%20https://docs.google.com/document/d/12NKk4l7P1d4iIpnRrFZE2Cn0mcYXkmOR5057XZAHfao/edit?usp=drive_link)
 
 
-
+---
 #### Step 2: Conduct Your Listening Tour 
-
+---
 
 
 
@@ -123,8 +123,9 @@
     - Other Resources:
         - [Recruiter Conversation Agenda Template](%20https://docs.google.com/document/d/1EPGxbgJLxOyQv7SVGrbPPZyMnqYViJY3VaN_CsapOxw/edit?usp=drive_link)
 
-
+---
 #### Step 3: Form Your Candidate-Market Fit 
+---
 
 - ##### [Chapter 9: Candidate Market Fit](#table-of-contents)
 	- <mark style="background: #ABF7F7A6;">Draft your Candidate-Market Fit statement. </mark>
@@ -146,8 +147,9 @@
         - For Resumes: The Ladders: Ultimate Resume Guide: Your Guide to Making a Professional Resume that Matters — https://www.theladders.com/resume
           <br>
 
-
+---
 #### Step 4: Start Networking and Interviewing 
+---
 
 - ##### [Chapter 11: Networking](#table-of-contents)
 	- Set up your [Megibow Dashboard](https://docs.google.com/spreadsheets/d/1zLuaTNlzCDsJSbyAlXgSvLPgASPvKYGfPz1bbzN7bpc/edit?usp=drive_link) and [Opportunity Screener](https://docs.google.com/spreadsheets/d/1_PSypaVXagjxd3SeooV4xL2U9ClRc8UMHabp-NNs3hQ/edit?usp=drive_link) for you and your JSC. 
@@ -180,8 +182,10 @@
 		- The Muses’ helpful compilation of tactics from around the web (search for “[9 Sneaky Ways to Figure Out a Company’s Culture”](https://www.themuse.com/advice/9-sneaky-ways-to-figure-out-a-companys-culture)). 
 		  
  
-
+---
 #### Step 5: Negotiate and Prepare to Start 
+---
+
 
 - ##### [Chapter 13: Negotiating Salary](#table-of-contents)
 	- <mark style="background: #ABF7F7A6;">Complete your salary-negotiations preparation exercise </mark>

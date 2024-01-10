@@ -1,7 +1,8 @@
 
 
-
+---
 ### Table of Contents
+---
 
 * #### [Overview and Key Themes](#overview-and-key-themes-1)
  
@@ -20,7 +21,7 @@
     - **[Chapter 7: The Golden Question](#chapter-7-the-golden-question)**
     - **[Chapter 8: Recruiters](#chapter-8-recruiters)**
 
-* #### Step 3: Form Your Candidate-Market Fit**
+* #### Step 3: Form Your Candidate-Market Fit
     - **[Chapter 9: Candidate Market Fit](#chapter-9-candidate-market-fit)**
     - **[Chapter 10: LinkedIn/Resume Synch with Candidate-Market Fit ](#chapter-10-linkedinresume-synch-with-candidate-market-fit)**
 
@@ -37,9 +38,8 @@
 
 -----
 
-
-
 ## [Overview and Key Themes](#table-of-contents)
+---
 
 * What chapters to read based on your career/job search situation
 * **<font color="#c00000"><span style="background:#fff88f">Emphasizes: The value of this book is from putting the recommendations into action….not reading</span></font>**
@@ -73,14 +73,13 @@
         * Resources
         * Support	
 
-
+---
 ## Step 0: If You Just Left or Lost Your Job 
-
-<br>
+---
 
 ## Step 1: Set Up a Job Search Council
+---
 
-<br>
 
 ### [Chapter 1: Managing-the-Job-Search-Roller-Coaster](#table-of-contents)
 
@@ -111,6 +110,8 @@
       <br>
 * Charlie Munger: _If a smart person goes into a room with an orangutan and explains whatever his or her idea is, the orangutan just sits there eating his banana, and at the end of the conversation, the person explaining comes out smarter_.
 
+<br>
+
 ### [Chapter 2: Recruit-Strangers-(or-Acquaintances)](#table-of-contents)
 
 * Most people (he says 80% of readers) have no trouble recruiting strangers
@@ -134,6 +135,8 @@
     * career-switchers
 * <font color="#f79646">I don’t know if I’m #1 or #3. Probably #3.</font>
 * When you have 4 people total or more, you’re ready to launch
+
+<br>
 
 ### [Chapter 3: Launch your JSC](#table-of-contents)
 
@@ -168,11 +171,13 @@
         * After you understand and embrace your Candidate-Market Fit
             * Start networking (Chapter 11)
             * How to prepare for and conduct interviews (Chapter 12)
-
-
-## Step 2: Conduct Your Listening Tour
-
+    
 <br>
+
+---
+## Step 2: Conduct Your Listening Tour
+---
+
 
 ### [Chapter 4: The Mnookin Two-Pager](#table-of-contents)
 
@@ -236,6 +241,8 @@
 * Bring your Two-Pager to your next JSC meeting. Share it w/everyone else. Ask for feedback and read everyone else’s. 
 * You’re ALMOST ready for your Listening Tour. 
 
+<br>
+
 ### [Chapter 5: Gratitude House](#table-of-contents)
 
 * Who should you speak to during your Listening Tour?
@@ -278,6 +285,8 @@
             * Can just be simple observations regarding what you’ve figured out (‘a and b but not c’). Doesn’t need to contain amazing information or progress. 
             * Include people in your journey
 
+<br>
+
 ### [ Chapter 6: Reverse Exit Interviews](#table-of-contents)
 
 * Look at your Gratitude House list. Do you have a former colleague or boss that you worked with either recently or in the last several years?
@@ -305,6 +314,8 @@
 * Use your JSC to help extract what’s useful and to buck you up
 * If one of these interviews changes your thinking, update your Mnookin Two-Pager. 
 
+<br>
+
 ### [Chapter 7: The Golden Question](#table-of-contents)
 
 * What’s the Golden Question?
@@ -331,6 +342,8 @@
 * Listen. Look for patterns and commonalities across conversations regarding what the market is telling you. Not everything will be correct or applicable. Look for signal in the noise. 
 * All these people, across Reverse Exit Interviews and Golden Questions, go on your update list. Some will become ongoing parts of your network and will help you later in your career. 
 
+<br>
+
 ### [Chapter 8: Recruiters](#table-of-contents)
 
 * Speak with: recruiters and talent partners at VCs and PEs
@@ -349,12 +362,12 @@
 * Send thank you notes
 * Send periodic updates to everyone you’ve spoken with along the way
 
-
-
-## Step 3: Form Your Candidate-Market Fit
-
-
 <br>
+
+---
+## Step 3: Form Your Candidate-Market Fit
+---
+
 
 ### [Chapter 9: Candidate Market Fit](#table-of-contents)
 
@@ -405,6 +418,8 @@
 * You will know you have a good statement when it’s simple and focused enough for just about anyone to understand 
 * If you learn new insights about your CMF, then run those by your JSC to see if they impact your search
 
+<br>
+
 ### [Chapter 10: LinkedIn/Resume Synch with Candidate-Market Fit](#table-of-contents)
 
 * Your LinkedIn profile and resume are your two most important pieces of marketing collateral, but…
@@ -446,8 +461,11 @@
 	- Consider having a recruiter review your LinkedIn & resume  for additional suggestions
 
 
-## Step 4: Create a Job Mission with OKRs when interviewing and negotiating
+<br>
 
+---
+## Step 4: Create a Job Mission with OKRs when interviewing and negotiating
+---
 
 <br>
 
@@ -581,8 +599,10 @@
 - ***<font color="#f79646">The worst thing to do is to present yourself as someone who could do a range of things depending on what a company needs.</font>***
 
 
-### [Chapter 12: Interviewing](#table-of-contents)
+<br>
 
+
+### [Chapter 12: Interviewing](#table-of-contents)
 
 - Interviewing them as much as they interview you
 - He wants you to ‘boss the process’. Control it. 
@@ -720,11 +740,11 @@
 		- Were you uncomfortable with anything you can’t put your finger on?
 
 
-
-## Step 5: Negotiate and Prepare to Start
-
-
 <br>
+
+---
+## Step 5: Negotiate and Prepare to Start
+---
 
 ### [Chapter 13: Negotiating Salary](#table-of-contents)
 
@@ -769,6 +789,8 @@
         * Ask for their opinions and get their feedback 
 
 
+<br>
+
 
 ### [Chapter 14: Negotiating What You Need to Succeed](#table-of-contents)
 
@@ -810,6 +832,8 @@
 * Get these commitments of Budget, Resources and Support in writing
 * Integrate into the offer letter
 * Each step of the negotiation, ask your JSC and others for help
+
+<br>
 
 
 ### [Chapter 15: Preparing to Start Your New Job](#table-of-contents)
@@ -866,6 +890,8 @@
     * Give back. Help others. 
     * Consider converting your JSC into a Career Council to keep supporting each other 
       
+
+<br>
 
 ### [Chapter 16: The Last Word](#table-of-contents)
 

@@ -42,7 +42,7 @@
 ---
 
 * What chapters to read based on your career/job search situation
-* **<font color="#c00000"><span style="background:#fff88f">Emphasizes: The value of this book is from putting the recommendations into action….not reading</span></font>**
+* **<span style="color:#AA4A44">Emphasizes: The value of this book is from putting the recommendations into action….not reading</span>**
 * First mention and stress of the importance of ‘Candidate-Market’ fit
 
 ### Overview
@@ -87,14 +87,14 @@
 * Emotional balance in a job search is critical to your persistence
 * Everyone struggles with self doubt
 * Job Search Council is a way to maintain and achieve that balance
-* <font color="#f79646">Learning to ask for help is a key skill. It’s a skill over indexed on by  successful people</font>
+* <span style="color:#AA4A44">Learning to ask for help is a key skill. It’s a skill over indexed on by  successful people</span>
 * You’ll be asking for help  from your JSC, former colleagues, from your network and from recruiters
 * Asking people for help builds a bond with them. Most people love to. 
   <br>
 * Mutually Reinforcing Activity
-    - <font color="#f79646">Insight: knowing how to grow or change often doesn’t result in change. Knowing isn’t enough. </font>
-    - <font color="#f79646">Connection, not knowledge, is often the key to getting us to act. </font>
-    - <font color="#f79646">Why peer councils, forums and mutual support groups are effective. </font>
+    - <span style="color:#AA4A44">Insight: knowing how to grow or change often doesn’t result in change. Knowing isn’t enough. </span>
+    - <span style="color:#AA4A44">Connection, not knowledge, is often the key to getting us to act. </span>
+    - <span style="color:#AA4A44">Why peer councils, forums and mutual support groups are effective. </span>
       <br>
 * The Wrong Way to Ask for Help
     * ‘Independent’ vs ‘Dependent’ forms of asking
@@ -122,7 +122,7 @@
 * Ask people: “Who else do you know — at my level, more or less — who is looking for a job?”
 * Other than level, he’s pretty open to recruiting any type of person. Different industries, genders, etc. All good. 
 * But don’t mix people looking for new jobs while working w/those out of work. Fundamentally different pace of searches make them incompatible. 
-- <font color="#f79646">If you have trouble: 1) ask for help from friends, colleagues, or others whom you trust; 2) go to PhylTerry.com and sign-up for my free JSC matching service.</font>
+- <span style="color:#AA4A44">If you have trouble: 1) ask for help from friends, colleagues, or others whom you trust; 2) go to PhylTerry.com and sign-up for my free JSC matching service.</span>
 * What to Say to a Potential Recruit?
     * Tell them it’s to support each other in a job search
     * Tell them you’re using Never Search Alone as your guide
@@ -136,7 +136,7 @@
     * out-of-work job seekers
     * in-work job seekers
     * career-switchers
-* <font color="#f79646">I don’t know if I’m #1 or #3. Probably #3.</font>
+* <span style="color:#AA4A44">I don’t know if I’m #1 or #3. Probably #3.</span>
 * When you have 4 people total or more, you’re ready to launch
 
 <br>
@@ -151,23 +151,23 @@
     * **Moderation**
         * As the founder, you should be the moderator
         * If everyone is reading the book, most people will go out of their way to help each other
-        * <font color="#f79646">Three part meeting format</font>:
-            * <font color="#f79646">Updates, including results of any individual homework exercises from the book </font>
-            * <font color="#f79646">Short requests for help (RFHs)</font> 
-            * <font color="#f79646">Long RFHs and joint exercises from the book</font>
+        * <span style="color:#AA4A44">Three part meeting format</span>:
+            * <span style="color:#AA4A44">Updates, including results of any individual homework exercises from the book </span>
+            * <span style="color:#AA4A44">Short requests for help (RFHs)</span> 
+            * <span style="color:#AA4A44">Long RFHs and joint exercises from the book</span>
         * He also has an extensive essay of a JSC in action in the materials
           <br>
     * **Meeting Agendas**
         * He provides agendas for first 10 meetings
         * Need to be ruthless when creating your Candidate-Market Fit. Not doing that can slow down your search. 
-        * <font color="#f79646">The first 10 agendas walk you and your fellow members through figuring out your Candidate-Market Fit and then starting to network.</font>
+        * <span style="color:#AA4A44">The first 10 agendas walk you and your fellow members through figuring out your Candidate-Market Fit and then starting to network.</span>
           <br>
     * **Next Steps**
         * With JSC, go through creating and reviewing the Mnookin Two-Pager: what you enjoy, must haves, must nots, etc.
         * Listening Tour. Involves 3 types of conversations:
-            * <font color="#f79646">Reverse Exit Interviews (Chapter 6)</font>
-            * <font color="#f79646">The Golden Question (Chapter 7)</font>
-            * <font color="#f79646">Recruiter Interviews (Chapter 8)</font>
+            * <span style="color:#AA4A44">Reverse Exit Interviews (Chapter 6)</span>
+            * <span style="color:#AA4A44">The Golden Question (Chapter 7)</span>
+            * <span style="color:#AA4A44">Recruiter Interviews (Chapter 8)</span>
         * After Listening Tour:
             * Create your Candidate-Market Fit (Chapter 9)
             * Revamp your LinkedIn profile and Resume (Chapter 10)
@@ -192,20 +192,20 @@
 * Longer if working. Longer if career changer. 
 * Emphasizes you continue listening and iterating throughout your job search
 * Most people resist doing this b/c it’s tough emotionally
-* <font color="#f79646">First Step: Create FIRST DRAFT of your Mnookin Two-Pager</font>
-    * <font color="#f79646">what you want, what you love doing and your career goals</font>
-* <font color="#f79646">DO NOT NEED TO GET IT EXACTLY RIGHT. IT’S A DRAFT. Special emphasis for me b/c I’m a perfectionist. </font>
+* <span style="color:#AA4A44">First Step: Create FIRST DRAFT of your Mnookin Two-Pager</span>
+    * <span style="color:#AA4A44">what you want, what you love doing and your career goals</span>
+* <span style="color:#AA4A44">DO NOT NEED TO GET IT EXACTLY RIGHT. IT’S A DRAFT. Special emphasis for me b/c I’m a perfectionist. </span>
 * Your Listening Tour should improve your understanding of both what you want and what the market wants
 * Not knowing what you want is a very common problem for job searchers. This whole process, which he calls ‘Social Search’ is meant to address this b/c:
     * Kahneman: You can’t see yourself clearly, but others can
     * Learning what’s possible in the job market from others helps you DISCOVER what you want
 * Emphasizes again: Be open-minded, curious and not focused on getting leads or interviews
   <br>
-* **<font color="#f79646">What’s in The Mnookin Two-Pager. 4 sections:</font>**
-    * <font color="#f79646">What you love and hate doing</font>
-    * <font color="#f79646">Your “must-haves”</font>
-    * <font color="#f79646">Your “must-nots”</font>
-    * <font color="#f79646">Your career goals (short-term and long-term)</font>
+* **<span style="color:#AA4A44">What’s in The Mnookin Two-Pager. 4 sections:</span>**
+    * <span style="color:#AA4A44">What you love and hate doing</span>
+    * <span style="color:#AA4A44">Your “must-haves”</span>
+    * <span style="color:#AA4A44">Your “must-nots”</span>
+    * <span style="color:#AA4A44">Your career goals (short-term and long-term)</span>
       <br>
 * **What You Hate and Love Doing**
     * It’s always easier to start w/what you _do not want_
@@ -216,7 +216,7 @@
         * Interview each other about all the kinds of jobs, industries, functions, etc. that you hate and do not love doing. 
         * What about past jobs did you dislike? Why? Your partner should take notes on what you don’t like doing. 
         * Then, in the next steps, you will get the copy of their notes to review it. 
-    * <font color="#f79646">Review the list your partner wrote down regarding what YOU hate. </font>
+    * <span style="color:#AA4A44">Review the list your partner wrote down regarding what YOU hate. </span>
     * Invert this list to inform what you LOVE doing
     * Keep in mind…you can be good at something and not love it
       <br>
@@ -260,30 +260,30 @@
         * Help you think about who to speak with
         * Improve your confidence and mood
     * Remember people are happy when you ask them for help
-    * <font color="#f79646">Steps</font>
-        * <font color="#f79646">Find a quiet place</font>
-            * <font color="#f79646">pen & paper; no screens; no distractions</font>
-        * <font color="#f79646">Reflect</font>
-            * <font color="#f79646">Who has helped me along the way? What specifically did they do?</font>
-        * <font color="#f79646">Make a list</font>
-            * <font color="#f79646">Names, years, company, team. Other context and details you remember. </font>
-        * <font color="#f79646">Write thank-you letters (on paper), but do not send</font>
-            * <font color="#f79646">to be sent at the end of your job search</font>
-            * <font color="#f79646">Writing them improves your state of mind</font>
+    * <span style="color:#AA4A44">Steps</span>
+        * <span style="color:#AA4A44">Find a quiet place</span>
+            * <span style="color:#AA4A44">pen & paper; no screens; no distractions</span>
+        * <span style="color:#AA4A44">Reflect</span>
+            * <span style="color:#AA4A44">Who has helped me along the way? What specifically did they do?</span>
+        * <span style="color:#AA4A44">Make a list</span>
+            * <span style="color:#AA4A44">Names, years, company, team. Other context and details you remember. </span>
+        * <span style="color:#AA4A44">Write thank-you letters (on paper), but do not send</span>
+            * <span style="color:#AA4A44">to be sent at the end of your job search</span>
+            * <span style="color:#AA4A44">Writing them improves your state of mind</span>
     * Shows you that you have had a community that have helped you
       <br>
     * **Listening**
         * The goal is to learn from the marketplace how your are perceived and what your fit might be. 
         * This is user research, where you are the product. 
-        * <font color="#f79646">The most important thing….LISTEN</font>
+        * <span style="color:#AA4A44">The most important thing….LISTEN</span>
         * You don’t need to agree. Listen and attempt to understand. 
         * Be friendly and not defensive. 
         * Not looking for agreement. But understanding. 
           <br>
     * **Follow-Up**
         * **After every conversation:**
-            * <font color="#f79646">Send a thank-you note</font>
-            * <font color="#f79646">Add that person to a regular update</font>
+            * <span style="color:#AA4A44">Send a thank-you note</span>
+            * <span style="color:#AA4A44">Add that person to a regular update</span>
         * **Thank you note:**
             * Cite specifics they mentioned
             * Let them know you’ll keep them updated
@@ -302,24 +302,24 @@
 
 
 * Look at your Gratitude House list. Do you have a former colleague or boss that you worked with either recently or in the last several years?
-* <font color="#f79646">Set up time with them. Bring your Mnookin Two-Pager and ask:</font>
-    * <font color="#f79646">“What did I do well?”</font>
-    * <font color="#f79646">“What could I have done better?”</font>
-* <font color="#f79646">Then ask detailed clarifying questions.</font>
-* <font color="#f79646">At the end of your Reverse Exit Interview, share your Two-Pager:</font>
-    * “<font color="#f79646">What do you think of the Two-Pager?”</font>
-        * <font color="#f79646">Is it a good description of me? Is it accurate in terms of what I’m good at and enjoy? Anything missing?</font>
-    * <font color="#f79646">“What do you think of my short-term career goals?”</font>
-        * <font color="#f79646">If there are multiple, which do you think I’m a better fit for? Or areas where there’s greater demand? Or both?</font>
-        * <font color="#f79646">Anything else in the market - trends or roles - I’d be a fit for?</font>
-    * <font color="#f79646">“Who else do you think I should speak with?”</font>
-        * <font color="#f79646">Use this to expand your network</font>
+* <span style="color:#AA4A44">Set up time with them. Bring your Mnookin Two-Pager and ask:</span>
+    * <span style="color:#AA4A44">“What did I do well?”</span>
+    * <span style="color:#AA4A44">“What could I have done better?”</span>
+* <span style="color:#AA4A44">Then ask detailed clarifying questions.</span>
+* <span style="color:#AA4A44">At the end of your Reverse Exit Interview, share your Two-Pager:</span>
+    * “<span style="color:#AA4A44">What do you think of the Two-Pager?”</span>
+        * <span style="color:#AA4A44">Is it a good description of me? Is it accurate in terms of what I’m good at and enjoy? Anything missing?</span>
+    * <span style="color:#AA4A44">“What do you think of my short-term career goals?”</span>
+        * <span style="color:#AA4A44">If there are multiple, which do you think I’m a better fit for? Or areas where there’s greater demand? Or both?</span>
+        * <span style="color:#AA4A44">Anything else in the market - trends or roles - I’d be a fit for?</span>
+    * <span style="color:#AA4A44">“Who else do you think I should speak with?”</span>
+        * <span style="color:#AA4A44">Use this to expand your network</span>
 * Keep a journal w/detailed notes of each conversation
 * Thank them at the end of the meeting. Sent a written thank you note. Keep going. 
 * Try to do 3-5 of these conversations. 
-* <font color="#f79646">Prioritize:</font>
-    * <font color="#f79646">Those on your Gratitude House List</font>
-    * <font color="#f79646">Especially those w/stronger networks or you think can be helpful</font>
+* <span style="color:#AA4A44">Prioritize:</span>
+    * <span style="color:#AA4A44">Those on your Gratitude House List</span>
+    * <span style="color:#AA4A44">Especially those w/stronger networks or you think can be helpful</span>
 * This is what David Krauter did
 * _CG members will often ask me if they can do these reverse exit interviews even years after leaving a job. The answer is yes._
 * Not every conversation will go well. Some may be demoralizing and hit your emotional balance sheet hard.
@@ -343,15 +343,15 @@
   <br>
 * **Agenda for Golden Question Sessions:**
     * **Context on Yourself**
-        * <font color="#f79646">Say something about your career</font>
-        * <font color="#f79646">How you’re doing research to understand where there might be opportunities for someone like you</font>
+        * <span style="color:#AA4A44">Say something about your career</span>
+        * <span style="color:#AA4A44">How you’re doing research to understand where there might be opportunities for someone like you</span>
     * **Ask the Golden Question**
-        * <font color="#f79646">Don’t say much after asking. Be quiet. Listen. Let them think and reflect. </font>
+        * <span style="color:#AA4A44">Don’t say much after asking. Be quiet. Listen. Let them think and reflect. </span>
     * **Share Your Mnookin Two-Pager**
-        * <font color="#f79646">Ask the same questions you asked at the end of your Reverse Exit Interviews</font>
-            * <font color="#f79646">What do you think of this Two-Pager?</font>
-            * <font color="#f79646">What do you think of my short-term career goals?</font>
-            * <font color="#f79646">Is there anyone else I should talk to?</font>
+        * <span style="color:#AA4A44">Ask the same questions you asked at the end of your Reverse Exit Interviews</span>
+            * <span style="color:#AA4A44">What do you think of this Two-Pager?</span>
+            * <span style="color:#AA4A44">What do you think of my short-term career goals?</span>
+            * <span style="color:#AA4A44">Is there anyone else I should talk to?</span>
               <br>
 * Listen. Look for patterns and commonalities across conversations regarding what the market is telling you. Not everything will be correct or applicable. Look for signal in the noise. 
 * All these people, across Reverse Exit Interviews and Golden Questions, go on your update list. Some will become ongoing parts of your network and will help you later in your career. 
@@ -367,13 +367,13 @@
 * When you’re in a job, take recruiter calls. Even if you aren’t interested, help them if you can. 
   <br>
 * **What to say:**
-    * <font color="#f79646">I’m at the beginning of my job search and don’t know exactly what job I want yet. I’d like their advice and input. </font>
-    * <font color="#f79646">Like to understand how the market will view me. </font>
+    * <span style="color:#AA4A44">I’m at the beginning of my job search and don’t know exactly what job I want yet. I’d like their advice and input. </span>
+    * <span style="color:#AA4A44">Like to understand how the market will view me. </span>
       <br>
 * **Share your Mnookin Two-Pager and ask, what kind of jobs…**
-    * <font color="#f79646">…could I get tomorrow with no effort?</font>
-    * <font color="#f79646">…might be possible but would be a stretch?</font>
-    * <font color="#f79646">…would be out of my league?</font>
+    * <span style="color:#AA4A44">…could I get tomorrow with no effort?</span>
+    * <span style="color:#AA4A44">…might be possible but would be a stretch?</span>
+    * <span style="color:#AA4A44">…would be out of my league?</span>
       <br>
 * Send thank you notes
 * Send periodic updates to everyone you’ve spoken with along the way
@@ -388,7 +388,7 @@
 ### [Chapter 9: Candidate Market Fit](#table-of-contents)
 ---
 
-* <font color="#f79646">You want to align your Candidate-Market Fit with your short-term career goal: Your CMF tells you the type of job you can get w/your current skills and experience → You’ve identified a real market need you can fill. </font>
+* <span style="color:#AA4A44">You want to align your Candidate-Market Fit with your short-term career goal: Your CMF tells you the type of job you can get w/your current skills and experience → You’ve identified a real market need you can fill. </span>
 * When they are aligned, simply follow the remaining steps in the book
 * If there’s a disconnect, you must adjust. One of the biggest reasons job seekers don’t find jobs for an extended period is a disconnect. 
 * Creating a realistic strategy is possibly the most difficult part of the job search
@@ -398,9 +398,9 @@
   <br>
 * **What you want your Candidate-Market Fit to be:**
     * After your Listening Tour, creating your Candidate-Market Fit should take no more than two weeks if you’re out of work
-    * <font color="#f79646">When marketing yourself, you don’t want to present a muddled message with multiple different possibilities. Focus and synchronize everything in your job search.</font>
-    * <font color="#f79646">The best CMF statements can be said in a phrase and not more than a sentence</font>
-    * <font color="#f79646">These statements put your candidacy in a clear box that provides direction to you, your network and to potential employers about the best jobs for you. (‘clear box’ → you’re the product)</font>
+    * <span style="color:#AA4A44">When marketing yourself, you don’t want to present a muddled message with multiple different possibilities. Focus and synchronize everything in your job search.</span>
+    * <span style="color:#AA4A44">The best CMF statements can be said in a phrase and not more than a sentence</span>
+    * <span style="color:#AA4A44">These statements put your candidacy in a clear box that provides direction to you, your network and to potential employers about the best jobs for you. (‘clear box’ → you’re the product)</span>
     * Warning: narrowing down your Candidate-Market Fit will likely prove difficult. Most struggle with it. Your intuition will be to cast a wide net. 
     * Your network and members of your JSC will expand your CMF from that narrow statement to a range of jobs. 
     * He says people can be expansive but not reductive: The inverse (extrapolating from a broad CMF to a single candidate job) is not true. They can’t take a wide CMF and boil it down to a single job for you. 
@@ -444,7 +444,7 @@
 * Your LinkedIn profile and resume are your two most important pieces of marketing collateral, but…
 * But only create these AFTER you’ve created your Candidate-Market Fit statement
 * Everything on your LI profile and resume MUST align with CMF
-- <font color="#f79646">You need to synchronize your skills and experience to the job you are looking for </font>
+- <span style="color:#AA4A44">You need to synchronize your skills and experience to the job you are looking for </span>
 * **LinkedIn/Resume Rehab Session**
 	* Pair up w/a JSC member. 
 	* First review each other’s LI profiles. Complete this for one of you and then the other. 
@@ -511,11 +511,11 @@
 		- Conducting meetings
 		  <br>
 - **5 activities tracked**
-	- **Outreach** —<font color="#f79646"> Any email or message initiated by you, including warm and cold introductions, updates, follow-ups, etc., to a recruiter, target company, or networking person, with the intent of supporting your job search. </font>
-	- **Scheduled** — <font color="#f79646">Any new meeting with a person in your network, recruiter, or company individual that has been formally scheduled on your calendar. </font>
-	- **Networking cal**l — <font color="#f79646">Any call/Zoom meeting/in-person meeting with someone from your Listening Tour, or from your network/industry who is neither a recruiter or at a target company, nor related to active work or consulting. </font>
-	- **Recruiter call** — <font color="#f79646">Any call/Zoom/meeting that occurred with an independent recruiter. </font>
-	- **Company call** — <font color="#f79646">Any call/Zoom/meeting that occurred with a representative (e.g., board member) or employee at the target company.</font>
+	- **Outreach** —<span style="color:#AA4A44"> Any email or message initiated by you, including warm and cold introductions, updates, follow-ups, etc., to a recruiter, target company, or networking person, with the intent of supporting your job search. </span>
+	- **Scheduled** — <span style="color:#AA4A44">Any new meeting with a person in your network, recruiter, or company individual that has been formally scheduled on your calendar. </span>
+	- **Networking cal**l — <span style="color:#AA4A44">Any call/Zoom meeting/in-person meeting with someone from your Listening Tour, or from your network/industry who is neither a recruiter or at a target company, nor related to active work or consulting. </span>
+	- **Recruiter call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with an independent recruiter. </span>
+	- **Company call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with a representative (e.g., board member) or employee at the target company.</span>
 - Can get a copy at Phyl.org. It’s a Google Sheet.  
   <br>
 - **Jeff’s Opportunity Screener**
@@ -535,7 +535,7 @@
 		- Thank them again; tell them about your CMF and if you could arrange another phone call or coffee
 	- **When you meet . . .**
 		- Thank them; reiterate your strategy
-		- Ask the Golden Question again, but a different one: _<font color="#f79646">“If this were your Candidate-Market Fit, how would you approach finding such a job if you were in my shoes?”</font>_ 
+		- Ask the Golden Question again, but a different one: _<span style="color:#AA4A44">“If this were your Candidate-Market Fit, how would you approach finding such a job if you were in my shoes?”</span>_ 
 	- **Be curious and open-minded**
 		- Ask follow-up questions to better understand their answers. Peel the onion a bit. 
 		- Don’t ask questions to drive agreement. Ask questions to understand what they’re suggesting. 
@@ -550,7 +550,7 @@
 		- Ask them to help you build a target list of companies that align to your Mnookin Two-Pager and your Candidate-Market Fit. 	 
 		  <br>
 - **Target Companies**
-	- <font color="#f79646">Create a list of target companies that align with what you’re looking for</font>
+	- <span style="color:#AA4A44">Create a list of target companies that align with what you’re looking for</span>
 	- Use the process above to add (and subtract) companies to that list  
 	  
 	  <br>
@@ -564,8 +564,8 @@
 	  
 	  <br>
 - **The Art of Asking for Warm Introductions**
-	- **<font color="#f79646">Ask the introducer to ask the third party first (and do not cc you)</font>**
-	- <font color="#f79646">I HAD FORGOTTEN ABOUT THIS. MARTIN INTRODUCED ME TO IT. IT’S HUGE. </font>
+	- **<span style="color:#AA4A44">Ask the introducer to ask the third party first (and do not cc you)</span>**
+	- <span style="color:#AA4A44">I HAD FORGOTTEN ABOUT THIS. MARTIN INTRODUCED ME TO IT. IT’S HUGE. </span>
 	- Optionally, offer to draft a note that they can edit as they see fit 
 		- (To relieve them of some of the work.)
 		- Say, “I won’t get your voice right and they should edit it, but wanted to give them something to work from.”
@@ -581,12 +581,12 @@
 	- **Level 1 of Cold Outreach:**
 		- Less effective, but less work
 			- Suggests the following approach:
-			- <font color="#f79646">Know what’s important to the person</font>
+			- <span style="color:#AA4A44">Know what’s important to the person</span>
 				- Learning something about them and what they care about and use it in your outreach
 				- Attention to detail is appreciated
-			- <font color="#f79646">Be Curious</font>
+			- <span style="color:#AA4A44">Be Curious</span>
 				- Don’t make assumptions, but make a discovery
-			- <font color="#f79646">Be playful</font>
+			- <span style="color:#AA4A44">Be playful</span>
 				- Ask an open ended question starting w/How? or Why? Take a chance. 
 	- **Level 2 of Cold Outreach**
 		- More effective, but more work
@@ -595,19 +595,19 @@
 		- Look for things that would be helpful for others, meaningful but easy for him
 		- _I started listening closely to people and thinking about what matters to them and how I can help them — whether through an introduction, sending them a link to research, or other simple-for-me-to-do favors that matter to them._
 		  <br>
-- **<font color="#f79646">And certainly, no matter what you do, follow up.</font>**
-- **<font color="#f79646">Follow-Up</font>**
+- **<span style="color:#AA4A44">And certainly, no matter what you do, follow up.</span>**
+- **<span style="color:#AA4A44">Follow-Up</span>**
 	- He mentioned this before: People are inconsistent w/their thank-you notes and often negligent in providing regular monthly or quarterly updates to those they’ve met with
 	- The whole point of all this is to be relational. (Build/develop relationships.)
 	- This is not just about getting a job. It’s about building friendships and trust and a village of support around you. It’s about tending your garden of relationships
-	- **<font color="#f79646">Rules of Follow-up</font>**
-		- **<font color="#f79646">Send a thank-you note after each networking session</font>**
-			-<font color="#f79646"> Be specific about something they said</font>
-		- **<font color="#f79646">Send a regular update</font>**
-			- <font color="#f79646">Monthly or Quarterly</font>
-			- <font color="#f79646">Doesn’t have to be groundbreaking</font>
-		- **<font color="#f79646">When you do get a job, tell them, and thank them for their help</font>**
-			- <font color="#f79646">Reach out individually to everyone</font>
+	- **<span style="color:#AA4A44">Rules of Follow-up</span>**
+		- **<span style="color:#AA4A44">Send a thank-you note after each networking session</span>**
+			-<span style="color:#AA4A44"> Be specific about something they said</span>
+		- **<span style="color:#AA4A44">Send a regular update</span>**
+			- <span style="color:#AA4A44">Monthly or Quarterly</span>
+			- <span style="color:#AA4A44">Doesn’t have to be groundbreaking</span>
+		- **<span style="color:#AA4A44">When you do get a job, tell them, and thank them for their help</span>**
+			- <span style="color:#AA4A44">Reach out individually to everyone</span>
 	- THIS NEVER STOPS DURING YOUR CAREER OR WHEN YOU START WORKING. STAY INVOLVED. HELP OTHERS. LET THEM KNOW WHAT YOU’RE DOING.  
 	  <br>
 - **Keep Iterating**
@@ -615,7 +615,7 @@
 	- Listen for trends, nuances, phrases/words, changes in the market that might impact your CMF 
 	  <br>
 	  
-- ***<font color="#f79646">The worst thing to do is to present yourself as someone who could do a range of things depending on what a company needs.</font>***
+- ***<span style="color:#AA4A44">The worst thing to do is to present yourself as someone who could do a range of things depending on what a company needs.</span>***
 
 
 <br>
@@ -695,7 +695,7 @@
 	- Let your JSC find red flags you might’ve missed
 	- Talk to as many people as you can about the company, its culture and the people you’ll be working with
 	- Find out what motivates the founder(s) if going to a startup
-	- Question to ask: _<font color="#f79646">If I called and left a voicemail and told you I was considering working for this company (and/or this person), and said please call me back only if you feel strongly that I must go work there . . . would you have called me back? Why or why not?</font>_
+	- Question to ask: _<span style="color:#AA4A44">If I called and left a voicemail and told you I was considering working for this company (and/or this person), and said please call me back only if you feel strongly that I must go work there . . . would you have called me back? Why or why not?</span>_
 	- Dig. Ask follow up questions of the people you’re using for research. They’re intense? How do you mean?
 	  <br>
   
@@ -704,7 +704,7 @@
 
 	- Be prepared for likely questions from them
 	- Have good questions for them to help you understand the role and your fit
-	- **<font color="#f79646">How the paired interview exercise works:</font>**
+	- **<span style="color:#AA4A44">How the paired interview exercise works:</span>**
 		- Pair up w/a fellow JSC member who is also interviewing
 		- Share key artifacts
 			- job description, your Candidate-Market Fit, LI profile, resume and anything uncovered during your research, your Mnookin Two-Pager
@@ -770,7 +770,7 @@
 ### [Chapter 13: Negotiating Salary](#table-of-contents)
 ---
 
-* **_<font color="#f79646">The key is to have the courage to ask</font>_**
+* **_<span style="color:#AA4A44">The key is to have the courage to ask</span>_**
 * 83% of the time, you’ll get more than you were initially offered
 * Your prior work, which includes vetting your Job Mission with OKRs by the hiring manager should increase their interest in you
 * Additionally, if you negotiate for the budget, resources and support you’ll need to succeed, that should also increase their interest in hiring you 
@@ -780,10 +780,10 @@
     * The most important thing to remember is that your goal is to NOT do the recruiter’s job
     * Most recruiters are like real estate agents. They want to close you quickly, not get you top dollar. 
     * That said, it’s still important to cultivate and work closely with recruiters. They are not your friends or your JSC, but you should still keep them close. 
-    * <font color="#f79646"> Make the recruiter your partner</font>
-    * <font color="#f79646">The best recruiters do this, but if they don’t proactively support you, ask them for as much help and coaching as you need. </font>
-    * <font color="#f79646">Ask them to prepare you so you can do your best. </font>
-    * <font color="#f79646">Share the questions you have prepared to answer and ask them if they would add any. </font> 
+    * <span style="color:#AA4A44"> Make the recruiter your partner</span>
+    * <span style="color:#AA4A44">The best recruiters do this, but if they don’t proactively support you, ask them for as much help and coaching as you need. </span>
+    * <span style="color:#AA4A44">Ask them to prepare you so you can do your best. </span>
+    * <span style="color:#AA4A44">Share the questions you have prepared to answer and ask them if they would add any. </span> 
       <br>
 
 * **Salary Negotiations Preparations**
@@ -792,21 +792,21 @@
 
 * **Salary Exercise you should do before you start negotiating**
     * (begins on page 193)
-    * **<font color="#f79646">Outline all the compensation elements in the offer</font>**
+    * **<span style="color:#AA4A44">Outline all the compensation elements in the offer</span>**
         * Base salary, bonus (and what it’s tied to), Equity, Signing bonus, Retirement plan (do they make contributions, how much, etc.), Healthcare benefits (insurance plan, options, out of pocket premiums, etc.), Vacation/time-off
-    * **<font color="#f79646">Read Chapter 5 of Women Don’t Ask</font>**
-    * **<font color="#f79646">Ask Around</font>**
+    * **<span style="color:#AA4A44">Read Chapter 5 of Women Don’t Ask</span>**
+    * **<span style="color:#AA4A44">Ask Around</span>**
         * Do research
         * Speak to the recruiter working with you and see if they have access to industry pay benchmarks
         * Call recruiters you don’t know and see if they can help
         * Several companies like Robert Half International have salary calculators
         * Glassdoor has something call the Know Your Worth tool
         * If you interview w/a venture backed company, see if you can access the VCECS (The Venture Capital Executive Compensation Survey). See if you know anyone w/access to it. 
-    * **<font color="#f79646">Think about your deal-breaker minimums</font>**
+    * **<span style="color:#AA4A44">Think about your deal-breaker minimums</span>**
         * Know what your minimum cash and equity are
-    * **<font color="#f79646">Think about anything else related to compensation</font>**
+    * **<span style="color:#AA4A44">Think about anything else related to compensation</span>**
         * non-salary ways you can be compensated (moving costs, remote work, student-loan debt assistance, tuition reimbursement, credit assistance, HSAs, 401, more vacation days, etc.)
-    * **<font color="#f79646">Consult your JSC</font>**
+    * **<span style="color:#AA4A44">Consult your JSC</span>**
         * Ask for their opinions and get their feedback 
 
 
@@ -826,15 +826,15 @@
   <br>
 
 
-* <font color="#f79646">How to figure out what you need to succeed:</font>
-* **<font color="#f79646">What You’ll Need to Succeed Exercise</font>**
-    * <font color="#f79646">Review</font> **<font color="#f79646">Job Mission with Examples</font>** <font color="#f79646">download from Phyl.org in Chapter 12.</font>
-        * <font color="#f79646">Review examples of how CG members integrated their Job Mission with OKRs with the budget, resources, and support needed to achieve those objectives and key results.</font>
-    * <font color="#f79646">Review starter questions below (Complete list is in the book)</font>
-    * <font color="#f79646">Add the budget, resources, and support to your Job Mission with OKRs</font>
-    * <font color="#f79646">Review with your JSC</font>
-    * <font color="#f79646">Show to your hiring manager</font>
-        * <font color="#f79646">Ask them for this to get the support you need </font>
+* <span style="color:#AA4A44">How to figure out what you need to succeed:</span>
+* **<span style="color:#AA4A44">What You’ll Need to Succeed Exercise</span>**
+    * <span style="color:#AA4A44">Review</span> **<span style="color:#AA4A44">Job Mission with Examples</span>** <span style="color:#AA4A44">download from Phyl.org in Chapter 12.</span>
+        * <span style="color:#AA4A44">Review examples of how CG members integrated their Job Mission with OKRs with the budget, resources, and support needed to achieve those objectives and key results.</span>
+    * <span style="color:#AA4A44">Review starter questions below (Complete list is in the book)</span>
+    * <span style="color:#AA4A44">Add the budget, resources, and support to your Job Mission with OKRs</span>
+    * <span style="color:#AA4A44">Review with your JSC</span>
+    * <span style="color:#AA4A44">Show to your hiring manager</span>
+        * <span style="color:#AA4A44">Ask them for this to get the support you need </span>
           <br>
 
 * **Starter Questions (an abbreviated selection of a much longer set of lists in the book)**

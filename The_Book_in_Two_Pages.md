@@ -13,13 +13,13 @@
 * #### Step 2: Conduct a Listening Tour **Before** You Begin Networking and Interviewing (Chapters 4 - 8)
     * Emotionally difficult/challenging
     * Be open-minded, creative and curious
-    * Get out there and understand how the market sees you, what the opportunities are, and what you want** 
+    * *Get out there and understand how the market sees you, what the opportunities are, and what you want*
 
 * #### Step 3: Form your Candidate-Market Fit (Chapters 9 - 10)
     * Once you have completed your self-discovery and market research, then I recommend you create a concise Candidate-Market Fit.
     * _In other words, I ask that you put yourself in a clear, marketable box._
     * Don’t make the mistake of being “open” to a wide range of offers. Narrow your focus. 
-    * _Once you do, then you can transition to where others start their job searches: with networking and interviewing.
+    * Once you do, then you can transition to where others start their job searches: with networking and interviewing.
 
 * #### Step 4: Create a Job Mission with OKRs when interviewing and negotiating (Chapters 12 - 14)
     * Once you start to get serious with a potential employer (but before you finish interviewing), create a Job Mission with OKRs. 

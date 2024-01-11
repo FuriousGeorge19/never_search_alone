@@ -1,5 +1,13 @@
 
 
+
+
+
+### The book is structured around a 5 step process (6 if you just lost your job):
+
+**![](https://lh7-us.googleusercontent.com/gNAypG9Aa2okE-7TlwjijSfD9tbghvnPfNYX5ta-F6LH5pkQLJA1dingVTN7ZHnkNGXLb3Wm2bX297pQDPowDES-EnYWNqgQ2YBrFvpWtc8g5JIeij0I-f49nsz58BACjdFr8ib6a2-okxlfDQoLNKc)**
+
+
 ---
 ### Table of Contents
 ---
@@ -30,7 +38,7 @@
     - **[Chapter 12: Interviewing](#chapter-12-interviewing)**
 
 * #### Step 5: Negotiate and Prepare to Start
-    - **[Chapter 13 Negotiating Salary](#chapter-13-negotiating-salary)**
+    - **[Chapter 13: Negotiating Salary](#chapter-13-negotiating-salary)**
     - **[Chapter 14: Negotiating What You Need to Succeed](#chapter-14-negotiating-what-you-need-to-succeed)**
     - **[Chapter 15: Preparing to Start Your New Job](#chapter-15-preparing-to-start-your-new-job)**
     - **[Chapter 16: The Last Word](#chapter-16-the-last-word)**
@@ -43,7 +51,7 @@
 
 * What chapters to read based on your career/job search situation
 * **<span style="color:#AA4A44">Emphasizes: The value of this book is from putting the recommendations into action….not reading</span>**
-* First mention and stress of the importance of ‘Candidate-Market’ fit
+* First mention and stress of the importance of ***Candidate-Market Fit***
 
 ### Overview
 
@@ -60,7 +68,7 @@
     * Whereas the Listening Tour is about being open-minded, the Candidate-Market Fit requires you to ‘box yourself in’
     * You can’t be open to everything or anything when you go to the next stage ‘Networking and Interviewing’
     * Strategy is about making hard choices and tradeoffs
-    * No choice is more important in a job search than determining your Candidate-Market Fit
+    * ***No choice is more important in a job search than determining your Candidate-Market Fit***
 * **Networking and Interviewing**
     * Prep for interviews by diving into strategy, financial strength, culture, products of target companies
     * Examine values, quality and history of leadership
@@ -87,12 +95,12 @@
 * Emotional balance in a job search is critical to your persistence
 * Everyone struggles with self doubt
 * Job Search Council is a way to maintain and achieve that balance
-* <span style="color:#AA4A44">Learning to ask for help is a key skill. It’s a skill over indexed on by  successful people</span>
+* <span style="color:#AA4A44">**Learning to ask for help is a key skill. It’s a skill overindexed on by  successful people**</span>
 * You’ll be asking for help  from your JSC, former colleagues, from your network and from recruiters
 * Asking people for help builds a bond with them. Most people love to. 
   <br>
 * Mutually Reinforcing Activity
-    - <span style="color:#AA4A44">Insight: knowing how to grow or change often doesn’t result in change. Knowing isn’t enough. </span>
+    - <span style="color:#AA4A44">**Insight: knowing how to grow or change often doesn’t result in change. Knowing isn’t enough.** </span>
     - <span style="color:#AA4A44">Connection, not knowledge, is often the key to getting us to act. </span>
     - <span style="color:#AA4A44">Why peer councils, forums and mutual support groups are effective. </span>
       <br>
@@ -151,7 +159,7 @@
     * **Moderation**
         * As the founder, you should be the moderator
         * If everyone is reading the book, most people will go out of their way to help each other
-        * <span style="color:#AA4A44">Three part meeting format</span>:
+        * <span style="color:#AA4A44">**Three part meeting format**</span>:
             * <span style="color:#AA4A44">Updates, including results of any individual homework exercises from the book </span>
             * <span style="color:#AA4A44">Short requests for help (RFHs)</span> 
             * <span style="color:#AA4A44">Long RFHs and joint exercises from the book</span>
@@ -164,7 +172,7 @@
           <br>
     * **Next Steps**
         * With JSC, go through creating and reviewing the Mnookin Two-Pager: what you enjoy, must haves, must nots, etc.
-        * Listening Tour. Involves 3 types of conversations:
+        * **Listening Tour. Involves 3 types of conversations:**
             * <span style="color:#AA4A44">Reverse Exit Interviews (Chapter 6)</span>
             * <span style="color:#AA4A44">The Golden Question (Chapter 7)</span>
             * <span style="color:#AA4A44">Recruiter Interviews (Chapter 8)</span>
@@ -189,12 +197,12 @@
 
 
 * Listening tour takes 2-3 weeks for out of work job seekers
-* Longer if working. Longer if career changer. 
+* **Longer if working. Longer if career changer.**
 * Emphasizes you continue listening and iterating throughout your job search
 * Most people resist doing this b/c it’s tough emotionally
-* <span style="color:#AA4A44">First Step: Create FIRST DRAFT of your Mnookin Two-Pager</span>
+* <span style="color:#AA4A44">**First Step: Create FIRST DRAFT of your Mnookin Two-Pager**</span>
     * <span style="color:#AA4A44">what you want, what you love doing and your career goals</span>
-* <span style="color:#AA4A44">DO NOT NEED TO GET IT EXACTLY RIGHT. IT’S A DRAFT. Special emphasis for me b/c I’m a perfectionist. </span>
+* <span style="color:#AA4A44">DO NOT NEED TO GET IT EXACTLY RIGHT. IT’S A DRAFT.</span>
 * Your Listening Tour should improve your understanding of both what you want and what the market wants
 * Not knowing what you want is a very common problem for job searchers. This whole process, which he calls ‘Social Search’ is meant to address this b/c:
     * Kahneman: You can’t see yourself clearly, but others can
@@ -209,7 +217,7 @@
       <br>
 * **What You Hate and Love Doing**
     * It’s always easier to start w/what you _do not want_
-    * Mnookin’s: _My idea of hell back then was sitting in an office alone and thinking deep thoughts. So, I included that and clarified that my next step will not be a solo spot or an analytical job. Neither should it be a strategy job that is not about a team. I got joy from seeing stuff implemented._
+    * Mnookin’s: *My idea of hell back then was sitting in an office alone and thinking deep thoughts. So, I included that and clarified that my next step will not be a solo spot or an analytical job. Neither should it be a strategy job that is not about a team. I got joy from seeing stuff implemented.*
       <br>
     * **First Exercise: Do this Have/Love paired w/another member of your JSC**
         * Interview each other about what you hate doing.
@@ -260,7 +268,7 @@
         * Help you think about who to speak with
         * Improve your confidence and mood
     * Remember people are happy when you ask them for help
-    * <span style="color:#AA4A44">Steps</span>
+    * <span style="color:#AA4A44">**Steps**</span>
         * <span style="color:#AA4A44">Find a quiet place</span>
             * <span style="color:#AA4A44">pen & paper; no screens; no distractions</span>
         * <span style="color:#AA4A44">Reflect</span>
@@ -274,7 +282,7 @@
       <br>
     * **Listening**
         * The goal is to learn from the marketplace how your are perceived and what your fit might be. 
-        * This is user research, where you are the product. 
+        * **This is user research, where you are the product.** 
         * <span style="color:#AA4A44">The most important thing….LISTEN</span>
         * You don’t need to agree. Listen and attempt to understand. 
         * Be friendly and not defensive. 
@@ -283,14 +291,14 @@
     * **Follow-Up**
         * **After every conversation:**
             * <span style="color:#AA4A44">Send a thank-you note</span>
-            * <span style="color:#AA4A44">Add that person to a regular update</span>
+            * <span style="color:#AA4A44">**Add that person to a regular update**</span>
         * **Thank you note:**
             * Cite specifics they mentioned
             * Let them know you’ll keep them updated
         * **Updates**
-            * Every month or quarter
+            * **Every month or quarter**
             * Updates deepen relationships and strengthens community
-            * Can just be simple observations regarding what you’ve figured out (‘a and b but not c’). Doesn’t need to contain amazing information or progress. 
+            * **Can just be simple observations regarding what you’ve figured out (‘a and b but not c’). Doesn’t need to contain amazing information or progress.** 
             * Include people in your journey
 
 <br>
@@ -312,7 +320,7 @@
     * <span style="color:#AA4A44">“What do you think of my short-term career goals?”</span>
         * <span style="color:#AA4A44">If there are multiple, which do you think I’m a better fit for? Or areas where there’s greater demand? Or both?</span>
         * <span style="color:#AA4A44">Anything else in the market - trends or roles - I’d be a fit for?</span>
-    * <span style="color:#AA4A44">“Who else do you think I should speak with?”</span>
+    * <span style="color:#AA4A44">***“Who else do you think I should speak with?”***</span>
         * <span style="color:#AA4A44">Use this to expand your network</span>
 * Keep a journal w/detailed notes of each conversation
 * Thank them at the end of the meeting. Sent a written thank you note. Keep going. 
@@ -320,7 +328,7 @@
 * <span style="color:#AA4A44">Prioritize:</span>
     * <span style="color:#AA4A44">Those on your Gratitude House List</span>
     * <span style="color:#AA4A44">Especially those w/stronger networks or you think can be helpful</span>
-* This is what David Krauter did
+* This is what David Krauter did. *(Dave's a former colleague who happens to be mentioned in the book.)*
 * _CG members will often ask me if they can do these reverse exit interviews even years after leaving a job. The answer is yes._
 * Not every conversation will go well. Some may be demoralizing and hit your emotional balance sheet hard.
 * Use your JSC to help extract what’s useful and to buck you up
@@ -388,7 +396,7 @@
 ### [Chapter 9: Candidate Market Fit](#table-of-contents)
 ---
 
-* <span style="color:#AA4A44">You want to align your Candidate-Market Fit with your short-term career goal: Your CMF tells you the type of job you can get w/your current skills and experience → You’ve identified a real market need you can fill. </span>
+* <span style="color:#AA4A44">***You want to align your Candidate-Market Fit with your short-term career goal: Your CMF tells you the type of job you can get w/your current skills and experience → You’ve identified a real market need you can fill.***</span>
 * When they are aligned, simply follow the remaining steps in the book
 * If there’s a disconnect, you must adjust. One of the biggest reasons job seekers don’t find jobs for an extended period is a disconnect. 
 * Creating a realistic strategy is possibly the most difficult part of the job search
@@ -398,12 +406,12 @@
   <br>
 * **What you want your Candidate-Market Fit to be:**
     * After your Listening Tour, creating your Candidate-Market Fit should take no more than two weeks if you’re out of work
-    * <span style="color:#AA4A44">When marketing yourself, you don’t want to present a muddled message with multiple different possibilities. Focus and synchronize everything in your job search.</span>
-    * <span style="color:#AA4A44">The best CMF statements can be said in a phrase and not more than a sentence</span>
-    * <span style="color:#AA4A44">These statements put your candidacy in a clear box that provides direction to you, your network and to potential employers about the best jobs for you. (‘clear box’ → you’re the product)</span>
-    * Warning: narrowing down your Candidate-Market Fit will likely prove difficult. Most struggle with it. Your intuition will be to cast a wide net. 
-    * Your network and members of your JSC will expand your CMF from that narrow statement to a range of jobs. 
-    * He says people can be expansive but not reductive: The inverse (extrapolating from a broad CMF to a single candidate job) is not true. They can’t take a wide CMF and boil it down to a single job for you. 
+    * <span style="color:#AA4A44">*When marketing yourself, you don’t want to present a muddled message with multiple different possibilities. Focus and synchronize everything in your job search*.</span>
+    * <span style="color:#AA4A44">***The best CMF statements can be said in a phrase and not more than a sentence***</span>
+    * <span style="color:#AA4A44">*These statements put your candidacy in a clear box that provides direction to you, your network and to potential employers about the best jobs for you.* (‘clear box’ → you’re the product)</span>
+    * *Warning: narrowing down your Candidate-Market Fit will likely prove difficult. Most struggle with it. Your intuition will be to cast a wide net.* 
+    * *Your network and members of your JSC will expand your CMF from that narrow statement to a range of jobs.*
+    * *He says people can be expansive but not reductive: The inverse (extrapolating from a broad CMF to a single candidate job) is not true. They can’t take a wide CMF and boil it down to a single job for you.*
       <br>
 * **Examples of good Candidate-Market Fit statements:**
     * Find a Chief of Staff role in a medium-sized financial services institution 
@@ -442,9 +450,9 @@
 
 
 * Your LinkedIn profile and resume are your two most important pieces of marketing collateral, but…
-* But only create these AFTER you’ve created your Candidate-Market Fit statement
+* ...only create these AFTER you’ve created your Candidate-Market Fit statement
 * Everything on your LI profile and resume MUST align with CMF
-- <span style="color:#AA4A44">You need to synchronize your skills and experience to the job you are looking for </span>
+- <span style="color:#AA4A44">**You need to synchronize your skills and experience to the job you are looking for** </span>
 * **LinkedIn/Resume Rehab Session**
 	* Pair up w/a JSC member. 
 	* First review each other’s LI profiles. Complete this for one of you and then the other. 
@@ -474,7 +482,8 @@
 	- He’s not an expert and suggests you look online to find those who are
 	- Keywords and outcomes will help the bots push your resume to the top of the pile.
 	- Again, if you don’t know, find someone to ask for help. This is one of the central messages of this book. 
-	  <br.
+
+  <br>
 - **Next Steps**
 	- Conduct your LinkedIn/Resume Rehab sessions
 	- Consider having a recruiter review your LinkedIn & resume  for additional suggestions
@@ -498,7 +507,7 @@
 - Your network is a force multiplier to find your opportunities that fit you best
 - What you’ve done to strengthen relationships up to this point (i.e. your Listening Tour, thank-you notes and regular updates) and craft your CMF means lots of people can act as ‘listening posts’ for you
   
-- Two steps to getting a job:
+- **Two steps to getting a job:**
 	- Craft an accurate CMF
 	- Network like hell
 - Highly recommends Karen Wickre’s _Taking the Working out of Networking_
@@ -509,14 +518,20 @@
 	- You need to always be doing two things:
 		- Setting up new future meetings
 		- Conducting meetings
-		  <br>
-- **5 activities tracked**
-	- **Outreach** —<span style="color:#AA4A44"> Any email or message initiated by you, including warm and cold introductions, updates, follow-ups, etc., to a recruiter, target company, or networking person, with the intent of supporting your job search. </span>
-	- **Scheduled** — <span style="color:#AA4A44">Any new meeting with a person in your network, recruiter, or company individual that has been formally scheduled on your calendar. </span>
-	- **Networking cal**l — <span style="color:#AA4A44">Any call/Zoom meeting/in-person meeting with someone from your Listening Tour, or from your network/industry who is neither a recruiter or at a target company, nor related to active work or consulting. </span>
-	- **Recruiter call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with an independent recruiter. </span>
-	- **Company call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with a representative (e.g., board member) or employee at the target company.</span>
-- Can get a copy at Phyl.org. It’s a Google Sheet.  
+
+  <br>
+
+
+  - **5 activities tracked**
+    - **Outreach** —<span style="color:#AA4A44"> Any email or message initiated by you, including warm and cold introductions, updates, follow-ups, etc., to a recruiter, target company, or networking person, with the intent of supporting your job search. </span>
+    - **Scheduled** — <span style="color:#AA4A44">Any new meeting with a person in your network, recruiter, or company individual that has been formally scheduled on your calendar. </span>
+    - **Networking cal**l — <span style="color:#AA4A44">Any call/Zoom meeting/in-person meeting with someone from your Listening Tour, or from your network/industry who is neither a recruiter or at a target company, nor related to active work or consulting. </span>
+    - **Recruiter call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with an independent recruiter. </span>
+    - **Company call** — <span style="color:#AA4A44">Any call/Zoom/meeting that occurred with a representative (e.g., board member) or employee at the target company.</span>
+
+      <br>
+
+  - Can get a copy at Phyl.org. It’s a Google Sheet.  
   <br>
 - **Jeff’s Opportunity Screener**
 	- To help evaluate opportunities against your CMF and your Mnookin Two-Pager
@@ -548,7 +563,9 @@
 		- With a clear CMF clearly articulated, it’s easier for them to keep you top of mind
 	- **Ask them about target companies**
 		- Ask them to help you build a target list of companies that align to your Mnookin Two-Pager and your Candidate-Market Fit. 	 
-		  <br>
+
+        <br>
+
 - **Target Companies**
 	- <span style="color:#AA4A44">Create a list of target companies that align with what you’re looking for</span>
 	- Use the process above to add (and subtract) companies to that list  
@@ -560,18 +577,18 @@
 	- join every relevant-to-your-strategy networking group on Slack, LinkedIn, Twitter, Facebook, etc. or IRL!
 	- There are even old-fashioned ones that meet in real life.
 	- Use college services. Most colleges now have free online and offline job placement services for alumni
-	- Subscribe to TheLadders and/or ExerThread or anything suggested by your JSC or through your conversations 
+	- Subscribe to TheLadders and/or ExecThread or anything suggested by your JSC or through your conversations 
 	  
 	  <br>
 - **The Art of Asking for Warm Introductions**
 	- **<span style="color:#AA4A44">Ask the introducer to ask the third party first (and do not cc you)</span>**
-	- <span style="color:#AA4A44">I HAD FORGOTTEN ABOUT THIS. MARTIN INTRODUCED ME TO IT. IT’S HUGE. </span>
+	- <span style="color:#AA4A44">*I HAD FORGOTTEN ABOUT THIS. MARTIN ESSENTIALLY SAID THIS IS THE ONLY WAY INTRODUCTIONS SHOULD BE DONE.* </span>
 	- Optionally, offer to draft a note that they can edit as they see fit 
 		- (To relieve them of some of the work.)
 		- Say, “I won’t get your voice right and they should edit it, but wanted to give them something to work from.”
 	- Ask the introducer to connect you once the third party says yet 
 	- Other stuff from this section:
-		- A VC said: “If I get the usual “I want to work with smart people at an interesting company doing something in marketing,”, then i’m not interested. 
+		- A VC said: “If I get the usual *“I want to work with smart people at an interesting company doing something in marketing,”*, then i’m not interested. 
 		- If the introducer doesn’t want to make a warm intro, suggest it’s typically more effective, but you’ll follow their lead.  
 		  
 		  <br>
@@ -599,7 +616,7 @@
 - **<span style="color:#AA4A44">Follow-Up</span>**
 	- He mentioned this before: People are inconsistent w/their thank-you notes and often negligent in providing regular monthly or quarterly updates to those they’ve met with
 	- The whole point of all this is to be relational. (Build/develop relationships.)
-	- This is not just about getting a job. It’s about building friendships and trust and a village of support around you. It’s about tending your garden of relationships
+	- This is not just about getting a job. It’s about building friendships and trust and a village of support around you. It’s about tending your garden of relationships.
 	- **<span style="color:#AA4A44">Rules of Follow-up</span>**
 		- **<span style="color:#AA4A44">Send a thank-you note after each networking session</span>**
 			-<span style="color:#AA4A44"> Be specific about something they said</span>
@@ -626,7 +643,7 @@
 
 
 - Interviewing them as much as they interview you
-- He wants you to ‘boss the process’. Control it. 
+- He wants you to *‘boss the process’*. Control it. 
 - Leverage your Job Mission with OKRs tool is key 
 <br>
 
@@ -643,7 +660,8 @@
 	- You also use your Job Mission with OKRs to negotiate compensation, resources, budget and support
 	- Says this is one of the best tools in the book
 	- But most people don’t use it
-	- He has a video of someone talking about it w/their actual JM w/OKRs document 
+	- He has a video of someone talking about it w/their actual Job Mission w/OKRs document 
+
 	  <br>
 
 - **How to Create a Job Mission**
@@ -674,7 +692,7 @@
 	- Read Chapter 3 of Richard Rumelt’s Good Strategy/Bad Strategy
 	- 4 signs of bad strategy:
 	- Fluff/Jargon/Trendy. Should be clear and direct.
-	- Lack recognition of the challenge(s). 
+	- Lacks recognition of the challenge(s). 
 	- Mistaking goals for strategy. State audacious goals without discussing how they’ll do it. 
 	- Bad strategic objectives.  
 	- Ask your JSC for feedback on your research. Avoid bad cultures, especially.  
@@ -685,8 +703,8 @@
 	- Listen to your own reactions. 
 	- Pay attention to everything. Are they humble? arrogant? Corporate generic and bureaucratic?
 	- Bezos’ annual letter. Emphasizes customers and not employees. Meaningful cultural information. 
-	- Is the culture insular? Are the employee networked w/in the industry? (Conny w/Yelp)
-	- [The Muse Article: 9 Sneaky Ways to Figure Out a Company’s Culture](https://www.themuse.com/advice/9-sneaky-ways-to-figure-out-a-companys-culture) 
+	- Is the culture insular? Are the employee networked w/in the industry? (e.g.Conny w/Yelp. No one in Yelp knows anyone in the ad industry to a shocking degree.)
+	- [The Muse Article: *9 Sneaky Ways to Figure Out a Company’s Culture*](https://www.themuse.com/advice/9-sneaky-ways-to-figure-out-a-companys-culture) 
 	  <br>
 
 - **Backchannel Research**
@@ -696,7 +714,7 @@
 	- Talk to as many people as you can about the company, its culture and the people you’ll be working with
 	- Find out what motivates the founder(s) if going to a startup
 	- Question to ask: _<span style="color:#AA4A44">If I called and left a voicemail and told you I was considering working for this company (and/or this person), and said please call me back only if you feel strongly that I must go work there . . . would you have called me back? Why or why not?</span>_
-	- Dig. Ask follow up questions of the people you’re using for research. They’re intense? How do you mean?
+	- Dig. Ask follow up questions of the people you’re using for research. e.g. *"They’re intense?" "Intense in what way?"*
 	  <br>
   
 
@@ -716,8 +734,8 @@
 		- Write down interview questions for your partner
 			- Based on must-haves, must-nots, anything else that surfaced. (These are questions for your partner to direct towards the employer.)
 			- Answer these questions:
-				- 1) if you were the potential employer, what questions would you want to ask your partner? and 
-				- 2) if you were the job candidate, what would you want to ask the potential employer? 
+				- **If you were the potential employer, what questions would you want to ask your partner?** and 
+				- **If you were the job candidate, what would you want to ask the potential employer?** 
 		
 		- Share your questions with each other
 			- Discuss and edit so you develop a single list of PRIORITIZED questions to answer and ask
@@ -746,8 +764,8 @@
 - **Listen to What They Do**
 	- Biggest mistake he sees: Candidates replace reality w/wish fulfillment. Don’t see things as they are. 
 	- Use your eyes, ears and social cues to see what’s right in front of you. 
-	- Pay attention to how the interview acts
-	- This is the best treatment you’ll ever get from the company. If they don’t treat you well then, then…? 
+	- Pay attention to how the interviewer acts
+	- This is the best treatment you’ll ever get from the company. If they don’t treat you well then…? 
 	  <br>
 
 - **Post-Interview Debrief**
@@ -819,7 +837,7 @@
 * Do not skip negotiating the budget, resources and support you will need to succeed in your new role
 * This makes your more likely to succeed in the new role and give you a leg up on getting promoted
 * It also impresses your prospective employer that you’re invested enough to think about all the required elements of the job
-* People are scared to ask.They shouldn’t be. 
+* People are scared to ask. They shouldn’t be. 
 * They have a bunch of items in this chapter that could constitute support: mentorship from the CEO, board prep coaching, education, funding for a team or project, executive coaching, getting your on boards of directors
 * 17% of people who ask don’t get what they want, in terms of compensation
 * He says, though they often get much of what they ask for 
@@ -847,7 +865,7 @@
         * Do I need access to external resources the company has on retainer?
     * **Support**	
         * What mentoring from my boss or boss’s boss do I need to come up to speed quickly on this new industry, function, business? 
-        * What training or professional development do I or my team need? 
+        * What training or professional development do I or my team need to join? 
         * What industry groups or associations, peer councils, etc. do I need 
         * Do I need an executive coach? 
           <br>

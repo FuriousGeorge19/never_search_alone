@@ -51,8 +51,8 @@
 - ##### [Chapter 2: Recruit Strangers (or Acquaintances)](#table-of-contents)
   
     - <mark style="background: #ABF7F7A6;">Recruit your first member of your JSC. </mark>
-        - [JSC Recruiting Emails (templates)](templates))
-    - <mark style="background: #ABF7F7A6;">Create your charter (download the charter template at [Phyl.org](https://www.phyl.org/) </mark>
+        - [JSC Recruiting Emails (templates)](templates)
+    - <mark style="background: #ABF7F7A6;">Create your charter (download the charter template at [Phyl.org](https://www.phyl.org/)) </mark>
         - [JSC Charter Template](https://docs.google.com/document/d/1y3o3GADHU4Aj_iTJ79qzsv6TxWP9QJZQnktF-sJ2oBM/edit?usp=drive_link)
     - <mark style="background: #ABF7F7A6;">Recruit two more members.</mark>
     - Other Resources:
@@ -66,7 +66,7 @@
     - <mark style="background: #ABF7F7A6;">Have your first JSC meeting</mark>
     - Other Resources
         - [First 10 Agendas & Meeting Structure](https://docs.google.com/document/d/12NKk4l7P1d4iIpnRrFZE2Cn0mcYXkmOR5057XZAHfao/edit?usp=drive_link)
-        - [Imani Smith's JSC in Action](%20https://docs.google.com/document/d/12NKk4l7P1d4iIpnRrFZE2Cn0mcYXkmOR5057XZAHfao/edit?usp=drive_link)
+        - [Imani Smith's JSC in Action](https://docs.google.com/document/d/12NKk4l7P1d4iIpnRrFZE2Cn0mcYXkmOR5057XZAHfao/edit?usp=drive_link)
 
 
 ---
@@ -153,7 +153,7 @@
 
 - ##### [Chapter 11: Networking](#table-of-contents)
 	- Set up your [Megibow Dashboard](https://docs.google.com/spreadsheets/d/1zLuaTNlzCDsJSbyAlXgSvLPgASPvKYGfPz1bbzN7bpc/edit?usp=drive_link) and [Opportunity Screener](https://docs.google.com/spreadsheets/d/1_PSypaVXagjxd3SeooV4xL2U9ClRc8UMHabp-NNs3hQ/edit?usp=drive_link) for you and your JSC. 
-	- <mark style="background: #ABF7F7A6;">Get Karen Wickre’s book (see below). Balance setting up new meetings with conducting existing meetings (so your weeks are constantly busy). </mark> ^60609d
+	- <mark style="background: #ABF7F7A6;">Get Karen Wickre’s book (see below). Balance setting up new meetings with conducting existing meetings (so your weeks are constantly busy). </mark>
 	- <mark style="background: #ABF7F7A6;">Update your broader network, including everyone you’ve spoken to thus far — and ask them to act as “listening posts.” </mark>
 	- <mark style="background: #ABF7F7A6;">Create of a list of target companies that align to what you are looking for. </mark>
 	- <mark style="background: #ABF7F7A6;">Identify and join networking groups relevant to your Candidate-Market Fit. </mark>
@@ -176,7 +176,7 @@
 		- [“Fall 2023 Job Search Kickoff – CEO & Chief Product Officer”](https://vimeo.com/864914450/477fef40dc?share=copy)
 		- [Rejected in final round of interviews](https://www.linkedin.com/events/powerofjobsearchcouncils7054522894483120128/comments/)
 		- [Verbal offer is withdrawn; and more topics](https://collaborativegain.cmail20.com/t/t-l-fptjud-jtjklljhti-q/)
-		- Who by Geoff Smart and Randy Street Get the Kindle version, and go to page 24 to see their example of a Job Mission. (I have it in my Kindle and Apple Books and the ePUB in my Career directory.)
+		- ***[Who](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194)*** by Geoff Smart and Randy Street Get the Kindle version, and go to page 24 to see their example of a Job Mission. (I have it in my Kindle and Apple Books and the ePUB in my Career directory.)
 		- Glassdoor Best Places to Work and other online resources Glassdoor produces an annual report on the best places to work (just Google that title, and you’ll find it). 
 		- You should also search online for: “How to figure out a company culture from outside” and see what you find. That’s how I found…
 		- The Muses’ helpful compilation of tactics from around the web (search for “[9 Sneaky Ways to Figure Out a Company’s Culture”](https://www.themuse.com/advice/9-sneaky-ways-to-figure-out-a-companys-culture)). 
@@ -221,4 +221,4 @@
 
 		  
 - ##### [Chapter 16: The Last Word](#table-of-contents)
-    - Nothing
+    - No actions
